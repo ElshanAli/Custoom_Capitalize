@@ -1,0 +1,43 @@
+body{
+    background-image: url(/asset/image/typewriter-5260665_1920.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   height: 100vh;
+}
+#custom{
+    text-align: center;
+    align-items: center;
+}
+#cos-title{
+    color: white;
+    letter-spacing: 6px;
+}
+.container{
+    padding: 0 37rem;
+}
+#cos-title{
+    margin: 50px 0 65px 160px;
+}
+
+#cos-input{
+    outline: none;
+    padding: 7px 17px;
+}
+#btn-click{
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color: #166FE5;
+    color: white;
+    border-color: #166FE5;
+}
+#enter{
+  
+    font-size: 26px;
+    color: white;
+}
+#result{
+    color: white;
+    margin: 2rem 10rem;
+}
+
